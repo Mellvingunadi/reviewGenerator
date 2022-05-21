@@ -13,7 +13,7 @@ const userDesc = [
     img: "./pictures/boredape.png",
     name:'doni',
     username:'@doni88',
-    desc:`Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed officiis ducimus perspiciatis magnam Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed officiis ducimus perspiciatis magnam Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed officiis ducimus perspiciatis magnam Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed officiis ducimus perspiciatis magnam`,
+    desc:`I'm doni thx for providing this platform for me, big appreciation for the team!`,
     },
     {
     id:2,
